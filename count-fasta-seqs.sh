@@ -1,5 +1,4 @@
 #!/bin/sh
-
 # How this script should behave:
 #
 # INPUT:   Paths to one or more fasta sequence files
@@ -93,4 +92,6 @@ echo "$@"
 # Good luck!
 #
 # ADD YOUR CODE BELOW:
-
+example-seqs2.fasta
+2 ~/au-bootcamp-git-intro/ example-seqs2.fasta
+2
