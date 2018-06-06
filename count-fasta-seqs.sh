@@ -92,6 +92,10 @@ echo "$@"
 # Good luck!
 #
 # ADD YOUR CODE BELOW:
+
+I'm confused! but will try to push this just to see if it works...
+I'm also really confused
+
 example-seqs2.fasta
 2 ~/au-bootcamp-git-intro/ example-seqs2.fasta
 2
